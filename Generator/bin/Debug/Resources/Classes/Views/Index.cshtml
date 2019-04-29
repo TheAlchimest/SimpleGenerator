@@ -1,0 +1,75 @@
+﻿@using $NameSpace$.Models.Utilities.Extensions;
+@model $NameSpace$.Models.ViewModels.CategoryListViewModel
+@{
+    ViewBag.Title = "Index";
+}
+<div id="Content" onload="loadImage()">
+    <div class="card-body">
+        <p class="mb-4">Validate.js makes simple clientside form validation easy, whilst still offering plenty of customization options. The plugin comes bundled with a useful set of validation methods, including URL and email validation, while providing an API to write your own methods. All bundled methods come with default error messages in english and translations into 37 other languages. <strong>Note:</strong> <code>success</code> callback is configured for demo purposes only and can be removed in validation setup.</p>
+
+        <div>
+            <form class="form-validate-jquery formfilter" id="categoryForm" method="post" action="/Category/Create">
+                <input type="hidden" value="1" name="PageNo" id="PageNo" />
+                <input type="hidden" value="10" name="PageSize" id="PageSize" />
+                <fieldset class="mb-3">
+                    <legend class="text-uppercase font-size-sm font-weight-bold">Basic inputs</legend>
+
+                    <!-- Basic text input -->
+                    <!-- Select2 select -->
+                    <div class="form-group row">
+                        <label class="col-form-label col-lg-3">Department </label>
+                        <div class="col-lg-9">
+                            @Html.CusomDropDownSelect("DepartmentID", Model.Deparments, true, "form-control form-control-select2 update-on-change", "onchange=\"updateFilter()\"")
+                        </div>
+                    </div>
+                    <!-- /select2 select -->
+                </fieldset>
+            </form>
+        </div>
+    </div>
+    <div id="dataGrid">@Html.Partial("Indexgrid")</div>
+</div>
+<script>
+    function CollectFormData() {
+
+        var filter = jqModel.GetModelFromName(".formfilter");
+        return filter;
+    }
+    function updateGridData(filterChanged) {
+        var filter = CollectFormData();
+        if (filterChanged) {
+            filter.FilterChanged = filterChanged;
+        }
+        var stingData = JSON.stringify(filter);
+        var url = '/Category/GetList?data=' + stingData;
+
+        ServerResultHandler.GetServerResult(url, $("#dataGrid"));
+    }
+    function PagerChanged(pageno) {
+        $("#PageNo").val(pageno);
+        updateGridData();
+    }
+    $(".update-on-change").change(function () {
+        debugger;
+        //if filter changed set page no to 1-
+        $("#PageNo").val(1);
+        updateGridData(true);
+    });
+    
+
+
+
+</script>
+
+
+
+@*احنا عايزين نعمل بوست ليها 
+المهم ان المعلم البيجر يشتغل 
+اه احنا ممكن نعمل سيرياليز للفورم 
+بحيث نبعتها كسيرياليز 
+فتروح 
+ولما نقابلها نقابلها ازاي 
+pager model 
+page index
+page size 
+parameters*@ 

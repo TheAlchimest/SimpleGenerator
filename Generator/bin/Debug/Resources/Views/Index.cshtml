@@ -1,0 +1,68 @@
+﻿@model [NameSpace].Models.[ModelClass]
+
+@{
+    ViewBag.Title = "[TableName]";
+}
+
+<h2>[TableName]</h2>
+<div id="[DialogBox]" style="display: none" title="[DialogBoxTitle]"> 
+    @Html.Partial("[DialogBox]")
+    </div>
+<br />
+<table id="[FlixyGridID]" style="display: none"></table>
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryui")
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/flexigrid")
+    @Scripts.Render("~/bundles/FormController")
+
+    <script type="text/javascript">
+        
+        var [JsObject] = {
+            ObjectIsReady: false,[javaScriptObjectParameters]
+        };
+
+        var [JsForm] = {
+            //------------------------------------------------[javaScriptFormParameters]
+            //------------------------------------------------
+            ObjectIsReady: false,
+            formId: $("#[DialogBoxFormID]"),
+            list: $('#[FlixyGridID]'),
+            autoRefresh: true,
+            Validator: null,
+            //------------------------------------------------
+            AddURl: '/[TableName]/[MethodCreate]',
+            UpdateURl: '/[TableName]/[MethodUpdat]',
+            DeleteUrl: '/[TableName]/[MethodDelete]',
+            GetObjeUrl: '/[TableName]/[MethodGetObject]?id=',
+            //-----------------------------------------------
+            //Load object by values
+            //-----------------------------------------------
+            LoadObject: function ()
+            {[jsFormLoadObjectFunctionParams]
+                    [JsObject].ObjectIsReady = true;
+            },
+            //-----------------------------------------------
+            //Clear Form data
+            //-----------------------------------------------
+            Clear: function () {[jsFormClearFunctionParams]
+                    this.Validator.resetForm();
+
+            },
+            //-----------------------------------------------
+            //Set object values into controls
+            //-----------------------------------------------
+            LoadControls: function (data) {
+                if (data != null) {[jsLoadControlsFunctionParams]
+                }
+            }
+        };
+         </script>
+        <div class="fgrid">
+    @Html.Partial("FlexiGrid",(CustomModels.FlexigridModels.FlexigridViewModel)ViewData["flexigrid"])
+            </div>
+}
+
+

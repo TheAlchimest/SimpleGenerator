@@ -1,0 +1,90 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewBag.Title</title>
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width" />
+
+        @Styles.Render( "~/Content/themes/south-street/css","~/Content/css", "~/Content/css/flexigrid")
+    @Scripts.Render("~/bundles/jquery")
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+        <link href="~/Content/themes/redmond/jquery-ui-1.10.3.custom.min.css" rel="stylesheet"/>
+    <!--[if lt IE 9]>
+    <link rel="stylesheet" type="text/css" href="/Content/ielte8mts.css" />
+<![endif]-->
+    @RenderSection("Styles", required: false)
+</head>
+<body>
+    <div id="container">
+        <div id="site_head">
+            @if (Request.Browser.Browser != "IE")
+            {
+                <div class="logo">
+                    <a href="/"></a>
+                    <object type="image/svg+xml" data="http://images.hindawi.com/logo/hindawi.svg" name="Hindawi Publishing Corporation Logo"></object>
+                </div>
+            }
+            else
+            {
+                <div class="logo">
+                    <a href="/">
+                        <img src="http://images.hindawi.com/logo/hindawi.jpg" alt="Hindawi Publishing Corporation Logo" />
+                    </a>
+                </div>
+            }
+            <div class="site_head_content">
+                <div></div>
+                <div class="slogan">Hindawi Publishing Corporation</div>
+            </div>
+        </div>
+        <div class="hindawi_links">
+            <ul>
+                @if (Request.IsAuthenticated) {
+                <li>@CommonMethods.ExtractName(User.Identity.Name)</li>
+                <li>@Html.ActionLink("Change password","Manage","Account")</li>
+                <li>@Html.ActionLink("Log out","LogOut","Account")</li>
+                }
+          </ul>
+            @*@Html.Partial("_LogOnPartial")*@
+        </div>
+        @*@if (Request.Browser.Browser != "IE")
+        {
+            <div id="banner">
+                <object type="image/svg+xml" data="http://images.hindawi.com/images/banners/home.banner.svg" alt="Hindawi Publishing Corporation"></object>
+            </div>
+        }
+        else
+        {
+            <div id="banner">
+                <img style="border-width: 0px;" alt="Hindawi Publishing Corporation" src="http://images.hindawi.com/images/banners/home.banner.jpg" />
+            </div>
+        }*@
+        <div id="banner">
+            <img style="border-width:0px;" alt="Hindawi Publishing Corporation" src="http://images.hindawi.com/images/banners/home.banner.jpg"/>
+        </div>
+        <div id="navigation">
+         <div  class="navigation_levels">
+              <div class="treemenu">
+                    <ul class="cssMenu">
+                        <li><a href="#" class="mainfoldericonLast">Generated modules</a>
+                            <ul>
+[MenuLinks]
+                            </ul>
+                        </li>
+                    </ul>
+
+              </div>
+          </div>
+        </div>
+        <div class="gray_shade"> </div>
+    <div class="gray_shade"></div>
+    <div class="reading_area">@RenderBody()</div>
+    <div class="lock"></div>
+    <div class="footer_space"></div>
+    </div>
+    <div id="footer"></div>
+    @RenderSection("scripts", required: false)
+</body>
+</html>

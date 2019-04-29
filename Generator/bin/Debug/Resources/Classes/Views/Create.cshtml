@@ -1,0 +1,127 @@
+﻿@using $NameSpace$.Models.Utilities.Extensions;
+@model $NameSpace$.Models.Dto.CategoryDto
+@{
+    ViewBag.Title = "Save";
+}
+
+<div class="card-body">
+    <p class="mb-4">Validate.js makes simple clientside form validation easy, whilst still offering plenty of customization options. The plugin comes bundled with a useful set of validation methods, including URL and email validation, while providing an API to write your own methods. All bundled methods come with default error messages in english and translations into 37 other languages. <strong>Note:</strong> <code>success</code> callback is configured for demo purposes only and can be removed in validation setup.</p>
+
+    <div>
+        <form class="form-validate-jquery" id="categoryForm" method="post" enctype="multipart/form-data" action="/Category/Edit">
+            @Html.AntiForgeryToken()
+            @Html.HiddenFor(model => model.CategoryID)
+            @Html.HiddenFor(model => model.CategoryImage)
+
+            <fieldset class="mb-3">
+                <legend class="text-uppercase font-size-sm font-weight-bold">Basic inputs</legend>
+                @* --------------------- Deparments ---------------- *@
+                <div class="form-group row">
+                    <label class="col-form-label col-lg-3">@Resources.Category.Deparments: <span class="text-danger">*</span></label>
+                    <div class="col-lg-9">
+                        @Html.CusomDropDownSelect("DepartmentID", Model.Deparments, true, "form-control form-control-select2")
+                    </div>
+                </div>
+                <!-- /select2 select -->
+                @* --------------------- NameAr ---------------- *@
+                <div class="form-group row">
+                    <label class="col-form-label col-lg-3">@Resources.Category.NameAr: <span class="text-danger">*</span></label>
+                    <div class="col-lg-9">
+                        <input type="text" name="NameAr" class="form-control" value="@Model.NameAr" required placeholder="Text input validation">
+                    </div>
+                </div>
+
+                @* --------------------- NameEn ---------------- *@
+                <div class="form-group row">
+                    <label class="col-form-label col-lg-3">@Resources.Category.NameEn: <span class="text-danger">*</span></label>
+                    <div class="col-lg-9">
+                        <input type="text" name="NameEn" class="form-control" value="@Model.NameEn" required placeholder="Text input validation">
+                    </div>
+                </div>
+
+                @* --------------------- Identifier ---------------- *@
+                <div class="form-group row">
+                    <label class="col-form-label col-lg-3">@Resources.Category.Identifier: <span class="text-danger">*</span></label>
+                    <div class="col-lg-9">
+                        <input type="text" name="Identifier" class="form-control" value="@Model.Identifier" required placeholder="Text input validation">
+                    </div>
+                </div>
+                @* --------------------- ThumUrl ---------------- *@
+                @if (!string.IsNullOrEmpty(Model.CategoryImage))
+                {
+                    <div class="form-group row">
+                        <label class="col-form-label col-lg-3"> </label>
+                        <div class="col-lg-9">
+                            <img src="@Model.ThumUrl" id="imgPreview" alt="" class="img-preview rounded  img-thumbnail">
+                        </div>
+                    </div>
+                }
+
+                @* --------------------- CategoryImagePostedFile ---------------- *@
+                <div class="form-group row">
+                    <label class="col-form-label col-lg-3">@Resources.Category.CategoryImage: <span class="text-danger">*</span></label>
+                    <div class="col-lg-9">
+                        <input type="file" name="CategoryImagePostedFile" class="form-input-styled" required data-fouc>
+                    </div>
+                </div>
+
+                @* --------------------- IsActive ---------------- *@
+                <div class="form-group row">
+                    <label class="col-lg-3 col-form-label">@Resources.Category.IsActive: <span class="text-danger">*</span></label>
+                    <div class="col-lg-9">
+                        <div class="form-check form-check-switchery switchery-sm">
+                            <label class="form-check-label">
+                                @*<input type="checkbox" name="switchery_single" class="form-input-switchery" required data-fouc>*@
+                                @Html.CheckBoxFor(m => m.IsActive, new { @class = "form-input-switchery", name = "IsActive", id = "IsActive", required = "required", data_fouc = "data-fouc" })
+                                Accept our terms
+                            </label>
+                        </div>
+                    </div>
+                </div>
+                @* --------------------- ClassName ---------------- *@
+                <div class="form-group row">
+                    <label class="col-form-label col-lg-3">@Resources.Category.ClassName: <span class="text-danger">*</span></label>
+                    <div class="col-lg-9">
+                        <input type="text" name="ClassName" class="form-control" value="@Model.ClassName" required placeholder="Text input validation">
+                    </div>
+                </div>
+                @* --------------------- progress-bar ---------------- *@
+                <div class="form-group row">
+                    <label class="col-form-label col-lg-3"> </label>
+                    <div class="col-lg-9">
+                        <div class="progress" style="display:none;">
+                            <div class="progress-bar bg-teal">0%</div>
+                        </div>
+                    </div>
+                </div>
+                @* --------------------- alert-result --------------------- *@
+                <div class="form-group row">
+                    <label class="col-form-label col-lg-3"> </label>
+                    <div class="col-lg-9">
+                        <div class="alert alert-success result-alert" style="display:none;">
+                            <button data-dismiss="alert" class="close">
+                                ×
+                            </button>
+                            <i class="fa fa-check-circle"></i>
+                            <span class="post-result"></span>
+                        </div>
+                    </div>
+                </div>
+                @* ----------------------------------------------------- *@
+
+            </fieldset>
+
+            <div class="d-flex justify-content-end align-items-center">
+                <button type="reset" class="btn btn-light" id="reset">Reset <i class="icon-reload-alt ml-2"></i></button>
+                <button type="submit" class="btn btn-primary ml-3">Submit <i class="icon-paperplane ml-2"></i></button>
+            </div>
+        </form>
+    </div>
+</div>
+<script>
+    $(function () {
+        var $form = $('#categoryForm');
+        var rules = FormVAlidationRules.CategoryDtoRules;
+        FormManager.PrepareFormCreate($form, rules);
+    });
+</script>

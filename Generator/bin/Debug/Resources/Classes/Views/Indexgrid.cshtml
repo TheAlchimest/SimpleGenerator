@@ -1,0 +1,50 @@
+﻿@using $NameSpace$.Models.Utilities.Extensions;
+@model $NameSpace$.Models.ViewModels.CategoryListDto
+@{
+    this.Layout = null;
+}
+<table class="table table-striped table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Preview</th>
+            <th>NameAr</th>
+            <th>NameEn</th>
+            <th>Identifier</th>
+            <th>Class</th>
+            <th class="text-center">Actions</th>
+
+        </tr>
+    </thead>
+    <tbody >
+        @foreach (var item in Model.ItemList)
+        {
+        <tr>
+            <td>@(Model.SatrtItemNo++)</td>
+            <td>
+                <a href="#url=/Content/Limitless_2.0.1/Bootstrap 4/Template/global_assets/images/placeholders/placeholder.jpg" data-popup="lightbox">
+                    <img src="@item.ThumUrl" alt="" class="img-preview rounded">
+                </a>
+            </td>
+            <td>@item.NameAr</td>
+            <td>@item.NameEn</td>
+            <td>@item.Identifier</td>
+            <td>@item.ClassName</td>
+            
+            <td class="text-center">
+                <a href="#url=/Category/edit/@item.CategoryID" class="btn alpha-primary text-primary-800 btn-icon edit" data-id="@item.CategoryID"><i class="icon-pencil7"></i></a>
+                <button type="button" class="btn alpha-danger text-danger btn-icon delete" onclick="return deleteCategory(this,@(item.CategoryID));" data-id="@item.CategoryID"><i class="icon-bin"></i></button>
+            </td>
+            
+        </tr>
+        }
+    </tbody>
+</table>
+
+@Html.Partial("~/Views/Shared/paging.cshtml", Model.Pagination)
+<script>
+    function deleteCategory($btn, id) {
+        let url = '/Category/Delete/' + id;
+        GridManager.DeleteRecord($btn, url);
+    }
+</script>

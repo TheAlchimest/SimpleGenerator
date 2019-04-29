@@ -1,0 +1,161 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SMOSampleInConsol\bin\Debug\SMOSampleInConsol.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SMOSampleInConsol\bin\Debug\SMOSampleInConsol.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SMOSampleInConsol\bin\Debug\SMOSampleInConsol.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SMOSampleInConsol\obj\Debug\SMOSampleInConsol.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SMOSampleInConsol\obj\Debug\SMOSampleInConsol.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SMOSampleInConsol\obj\Debug\SMOSampleInConsol.pdb
+D:\Work\SMOSampleInConsol\bin\Debug\SMOSampleInConsol.exe.config
+D:\Work\SMOSampleInConsol\obj\Debug\SMOSampleInConsol.exe
+D:\Work\SMOSampleInConsol\obj\Debug\SMOSampleInConsol.pdb
+D:\Work\SMOSampleInConsol\bin\Debug\SMOSampleInConsol.exe
+D:\Work\SMOSampleInConsol\bin\Debug\SMOSampleInConsol.pdb
+D:\Work\SMOSampleInConsol\obj\Debug\SMOSampleInConsol.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SpeedWor\SMOSampleInConsol\bin\Debug\SMOSampleInConsol.exe.config
+C:\Users\Administrator\Desktop\SpeedWor\SMOSampleInConsol\obj\Debug\SMOSampleInConsol.exe
+C:\Users\Administrator\Desktop\SpeedWor\SMOSampleInConsol\obj\Debug\SMOSampleInConsol.pdb
+C:\Users\Administrator\Desktop\SpeedWor\SMOSampleInConsol\obj\Debug\SMOSampleInConsol.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SpeedWor\SMOSampleInConsol\bin\Debug\SMOSampleInConsol.exe
+C:\Users\Administrator\Desktop\SpeedWor\SMOSampleInConsol\bin\Debug\SMOSampleInConsol.pdb
+C:\Users\Administrator\Desktop\SpeedWor\SMOSampleInConsol\Generator\bin\Debug\SMOSampleInConsol.exe.config
+C:\Users\Administrator\Desktop\SpeedWor\SMOSampleInConsol\Generator\obj\Debug\SMOSampleInConsol.exe
+C:\Users\Administrator\Desktop\SpeedWor\SMOSampleInConsol\Generator\obj\Debug\SMOSampleInConsol.pdb
+C:\Users\Administrator\Desktop\SpeedWor\SMOSampleInConsol\Generator\bin\Debug\SMOSampleInConsol.exe
+C:\Users\Administrator\Desktop\SpeedWor\SMOSampleInConsol\Generator\bin\Debug\SMOSampleInConsol.pdb
+C:\Users\Administrator\Desktop\SpeedWor\SMOSampleInConsol\Generator\obj\Debug\SMOSampleInConsol.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SpeedWor\SMOSampleInConsol\Generator\bin\Debug\CmsTeamSmallLibrary.dll
+C:\Users\Administrator\Desktop\SpeedWor\SMOSampleInConsol\Generator\bin\Debug\OnlinePlatformClassLibrary.dll
+C:\Users\Administrator\Desktop\SpeedWor\SMOSampleInConsol\Generator\bin\Debug\Ionic.Zip.dll
+C:\Users\Administrator\Desktop\SpeedWor\SMOSampleInConsol\Generator\bin\Debug\CmsTeamSmallLibrary.pdb
+C:\Users\Administrator\Desktop\SMOSampleInConsol\SMOSampleInConsol\Generator\bin\Debug\SMOSampleInConsol.exe.config
+C:\Users\Administrator\Desktop\SMOSampleInConsol\SMOSampleInConsol\Generator\obj\Debug\SMOSampleInConsol.exe
+C:\Users\Administrator\Desktop\SMOSampleInConsol\SMOSampleInConsol\Generator\obj\Debug\SMOSampleInConsol.pdb
+C:\Users\Administrator\Desktop\SMOSampleInConsol\SMOSampleInConsol\Generator\bin\Debug\SMOSampleInConsol.exe
+C:\Users\Administrator\Desktop\SMOSampleInConsol\SMOSampleInConsol\Generator\bin\Debug\SMOSampleInConsol.pdb
+C:\Users\Administrator\Desktop\SMOSampleInConsol\SMOSampleInConsol\Generator\bin\Debug\CmsTeamSmallLibrary.dll
+C:\Users\Administrator\Desktop\SMOSampleInConsol\SMOSampleInConsol\Generator\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Desktop\SMOSampleInConsol\SMOSampleInConsol\Generator\bin\Debug\OnlinePlatformClassLibrary.dll
+C:\Users\Administrator\Desktop\SMOSampleInConsol\SMOSampleInConsol\Generator\bin\Debug\AWSSDK.dll
+C:\Users\Administrator\Desktop\SMOSampleInConsol\SMOSampleInConsol\Generator\bin\Debug\Ionic.Zip.dll
+C:\Users\Administrator\Desktop\SMOSampleInConsol\SMOSampleInConsol\Generator\bin\Debug\office.dll
+C:\Users\Administrator\Desktop\SMOSampleInConsol\SMOSampleInConsol\Generator\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Administrator\Desktop\SMOSampleInConsol\SMOSampleInConsol\Generator\bin\Debug\CmsTeamSmallLibrary.pdb
+C:\Users\Administrator\Desktop\SMOSampleInConsol\SMOSampleInConsol\Generator\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Administrator\Desktop\SMOSampleInConsol\SMOSampleInConsol\Generator\bin\Debug\office.xml
+C:\Users\Administrator\Desktop\SMOSampleInConsol\SMOSampleInConsol\Generator\obj\Debug\SMOSampleInConsol.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SpeedWor\SMOSampleInConsol\SMOSampleInConsol\Generator\bin\Debug\SMOSampleInConsol.exe.config
+C:\Users\Administrator\Desktop\SpeedWor\SMOSampleInConsol\SMOSampleInConsol\Generator\obj\Debug\SMOSampleInConsol.exe
+C:\Users\Administrator\Desktop\SpeedWor\SMOSampleInConsol\SMOSampleInConsol\Generator\obj\Debug\SMOSampleInConsol.pdb
+C:\Users\Administrator\Desktop\SpeedWor\SpeedWor\SMOSampleInConsol\SMOSampleInConsol\Generator\bin\Debug\SMOSampleInConsol.exe.config
+C:\Users\Administrator\Desktop\SpeedWor\SpeedWor\SMOSampleInConsol\SMOSampleInConsol\Generator\obj\Debug\SMOSampleInConsol.exe
+C:\Users\Administrator\Desktop\SpeedWor\SpeedWor\SMOSampleInConsol\SMOSampleInConsol\Generator\obj\Debug\SMOSampleInConsol.pdb
+C:\Users\Administrator\Desktop\SpeedWor\SpeedWor\SMOSampleInConsol\SMOSampleInConsol\Generator\obj\Debug\SMOSampleInConsol.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SpeedWor\SpeedWor\SMOSampleInConsol\SMOSampleInConsol\Generator\bin\Debug\SMOSampleInConsol.exe
+C:\Users\Administrator\Desktop\SpeedWor\SpeedWor\SMOSampleInConsol\SMOSampleInConsol\Generator\bin\Debug\SMOSampleInConsol.pdb
+C:\Users\Administrator\Desktop\SpeedWor\SpeedWor\SMOSampleInConsol\SMOSampleInConsol\Generator\bin\Debug\CmsTeamSmallLibrary.dll
+C:\Users\Administrator\Desktop\SpeedWor\SpeedWor\SMOSampleInConsol\SMOSampleInConsol\Generator\bin\Debug\OnlinePlatformClassLibrary.dll
+C:\Users\Administrator\Desktop\SpeedWor\SpeedWor\SMOSampleInConsol\SMOSampleInConsol\Generator\bin\Debug\Ionic.Zip.dll
+C:\Users\Administrator\Desktop\SpeedWor\SpeedWor\SMOSampleInConsol\SMOSampleInConsol\Generator\bin\Debug\CmsTeamSmallLibrary.pdb
+D:\Work\_MVC\SMOSampleInConsol\Generator\bin\Debug\SMOSampleInConsol.exe.config
+D:\Work\_MVC\SMOSampleInConsol\Generator\obj\Debug\SMOSampleInConsol.exe
+D:\Work\_MVC\SMOSampleInConsol\Generator\obj\Debug\SMOSampleInConsol.pdb
+D:\Work\_MVC\SMOSampleInConsol\Generator\obj\Debug\SMOSampleInConsol.csprojResolveAssemblyReference.cache
+D:\Work\_MVC\SMOSampleInConsol\Generator\bin\Debug\SMOSampleInConsol.exe
+D:\Work\_MVC\SMOSampleInConsol\Generator\bin\Debug\SMOSampleInConsol.pdb
+D:\Work\_MVC\SMOSampleInConsol\Generator\bin\Debug\CmsTeamSmallLibrary.dll
+D:\Work\_MVC\SMOSampleInConsol\Generator\bin\Debug\OnlinePlatformClassLibrary.dll
+D:\Work\_MVC\SMOSampleInConsol\Generator\bin\Debug\Ionic.Zip.dll
+D:\Work\_MVC\SMOSampleInConsol\Generator\bin\Debug\CmsTeamSmallLibrary.pdb
+D:\Work\_MVC\MVC-CodeGenerator\SMOSampleInConsol\Generator\bin\Debug\SMOSampleInConsol.exe.config
+D:\Work\_MVC\MVC-CodeGenerator\SMOSampleInConsol\Generator\obj\Debug\SMOSampleInConsol.exe
+D:\Work\_MVC\MVC-CodeGenerator\SMOSampleInConsol\Generator\obj\Debug\SMOSampleInConsol.pdb
+D:\Work\_MVC\MVC-CodeGenerator\SMOSampleInConsol\Generator\bin\Debug\SMOSampleInConsol.exe
+D:\Work\_MVC\MVC-CodeGenerator\SMOSampleInConsol\Generator\bin\Debug\SMOSampleInConsol.pdb
+D:\Work\_MVC\MVC-CodeGenerator\SMOSampleInConsol\Generator\obj\Debug\SMOSampleInConsol.csprojResolveAssemblyReference.cache
+D:\Work\_MVC\MVC-CodeGenerator\SMOSampleInConsol\Generator\bin\Debug\CmsTeamSmallLibrary.dll
+D:\Work\_MVC\MVC-CodeGenerator\SMOSampleInConsol\Generator\bin\Debug\OnlinePlatformClassLibrary.dll
+D:\Work\_MVC\MVC-CodeGenerator\SMOSampleInConsol\Generator\bin\Debug\Ionic.Zip.dll
+D:\Work\_MVC\MVC-CodeGenerator\SMOSampleInConsol\Generator\bin\Debug\CmsTeamSmallLibrary.pdb
+D:\Work\_MVC\MVC-CodeGenerator\_SMOSampleInConsol\Generator\bin\Debug\SMOSampleInConsol.exe.config
+D:\Work\_MVC\MVC-CodeGenerator\_SMOSampleInConsol\Generator\obj\Debug\SMOSampleInConsol.exe
+D:\Work\_MVC\MVC-CodeGenerator\_SMOSampleInConsol\Generator\obj\Debug\SMOSampleInConsol.pdb
+D:\Work\_MVC\MVC-CodeGenerator\_SMOSampleInConsol - Copy\Generator\bin\Debug\SMOSampleInConsol.exe.config
+D:\Work\_MVC\MVC-CodeGenerator\_SMOSampleInConsol - Copy\Generator\obj\Debug\SMOSampleInConsol.exe
+D:\Work\_MVC\MVC-CodeGenerator\_SMOSampleInConsol - Copy\Generator\obj\Debug\SMOSampleInConsol.pdb
+D:\Work\_MVC\MVC-CodeGenerator\_SMOSampleInConsol - Copy\Generator\obj\Debug\SMOSampleInConsol.csprojResolveAssemblyReference.cache
+D:\Work\_MVC\MVC-CodeGenerator\_SMOSampleInConsol - Copy\Generator\bin\Debug\SMOSampleInConsol.exe
+D:\Work\_MVC\MVC-CodeGenerator\_SMOSampleInConsol - Copy\Generator\bin\Debug\SMOSampleInConsol.pdb
+D:\Work\_MVC\MVC-CodeGenerator\_SMOSampleInConsol\Generator\bin\Debug\SMOSampleInConsol.exe
+D:\Work\_MVC\MVC-CodeGenerator\_SMOSampleInConsol\Generator\bin\Debug\SMOSampleInConsol.pdb
+D:\Work\_MVC\MVC-CodeGenerator\_SMOSampleInConsol\Generator\obj\Debug\SMOSampleInConsol.csprojResolveAssemblyReference.cache
+D:\Work\_MVC\MVC-CodeGenerator\_SMOSampleInConsol.v1.1\Generator\bin\Debug\SMOSampleInConsol.exe.config
+D:\Work\_MVC\MVC-CodeGenerator\_SMOSampleInConsol.v1.1\Generator\obj\Debug\SMOSampleInConsol.exe
+D:\Work\_MVC\MVC-CodeGenerator\_SMOSampleInConsol.v1.1\Generator\obj\Debug\SMOSampleInConsol.pdb
+D:\Work\_MVC\MVC-CodeGenerator\_SMOSampleInConsol.v1.1\Generator\bin\Debug\SMOSampleInConsol.exe
+D:\Work\_MVC\MVC-CodeGenerator\_SMOSampleInConsol.v1.1\Generator\bin\Debug\SMOSampleInConsol.pdb
+D:\Work\_MVC\MVC-CodeGenerator\_SMOSampleInConsol.v1.1\Generator\obj\Debug\SMOSampleInConsol.csprojResolveAssemblyReference.cache
+D:\Els\HindawiWork.02\Work\_MVC\MVC-CodeGenerator\_SMOSampleInConsol.v1.1\Generator\bin\Debug\SMOSampleInConsol.exe.config
+D:\Els\HindawiWork.02\Work\_MVC\MVC-CodeGenerator\_SMOSampleInConsol.v1.1\Generator\obj\Debug\SMOSampleInConsol.exe
+D:\Els\HindawiWork.02\Work\_MVC\MVC-CodeGenerator\_SMOSampleInConsol.v1.1\Generator\obj\Debug\SMOSampleInConsol.pdb
+D:\Els\HindawiWork.02\Work\_MVC\MVC-CodeGenerator\_SMOSampleInConsol.v1.1\Generator\bin\Debug\SMOSampleInConsol.exe
+D:\Els\HindawiWork.02\Work\_MVC\MVC-CodeGenerator\_SMOSampleInConsol.v1.1\Generator\bin\Debug\SMOSampleInConsol.pdb
+D:\Els\HindawiWork.02\Work\_MVC\MVC-CodeGenerator\_SMOSampleInConsol.v1.1\Generator\obj\Debug\SMOSampleInConsol.csprojResolveAssemblyReference.cache
+D:\Els\work\HindawiWork.02\Work\_MVC\MVC-CodeGenerator\_SMOSampleInConsol.v1.1\Generator\bin\Debug\SMOSampleInConsol.exe.config
+D:\Els\work\HindawiWork.02\Work\_MVC\MVC-CodeGenerator\_SMOSampleInConsol.v1.1\Generator\obj\Debug\SMOSampleInConsol.exe
+D:\Els\work\HindawiWork.02\Work\_MVC\MVC-CodeGenerator\_SMOSampleInConsol.v1.1\Generator\obj\Debug\SMOSampleInConsol.pdb
+D:\Els\work\HindawiWork.02\Work\_MVC\MVC-CodeGenerator\_SMOSampleInConsol.v1.1\Generator\bin\Debug\SMOSampleInConsol.exe
+D:\Els\work\HindawiWork.02\Work\_MVC\MVC-CodeGenerator\_SMOSampleInConsol.v1.1\Generator\bin\Debug\SMOSampleInConsol.pdb
+D:\Els\work\HindawiWork.02\Work\_MVC\MVC-CodeGenerator\_SMOSampleInConsol.v1.1\Generator\obj\Debug\SMOSampleInConsol.csprojResolveAssemblyReference.cache
+E:\_Bk\Work\Els\_MVC-CodeGenerator\MVC-CodeGenerator\_SMOSampleInConsol.v1.1\Generator\bin\Debug\SMOSampleInConsol.exe.config
+E:\_Bk\Work\Els\_MVC-CodeGenerator\MVC-CodeGenerator\_SMOSampleInConsol.v1.1\Generator\bin\Debug\SMOSampleInConsol.exe
+E:\_Bk\Work\Els\_MVC-CodeGenerator\MVC-CodeGenerator\_SMOSampleInConsol.v1.1\Generator\bin\Debug\SMOSampleInConsol.pdb
+E:\_Bk\Work\Els\_MVC-CodeGenerator\MVC-CodeGenerator\_SMOSampleInConsol.v1.1\Generator\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\_Bk\Work\Els\_MVC-CodeGenerator\MVC-CodeGenerator\_SMOSampleInConsol.v1.1\Generator\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\_Bk\Work\Els\_MVC-CodeGenerator\MVC-CodeGenerator\_SMOSampleInConsol.v1.1\Generator\bin\Debug\Microsoft.SqlServer.Smo.dll
+E:\_Bk\Work\Els\_MVC-CodeGenerator\MVC-CodeGenerator\_SMOSampleInConsol.v1.1\Generator\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+E:\_Bk\Work\Els\_MVC-CodeGenerator\MVC-CodeGenerator\_SMOSampleInConsol.v1.1\Generator\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+E:\_Bk\Work\Els\_MVC-CodeGenerator\MVC-CodeGenerator\_SMOSampleInConsol.v1.1\Generator\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+E:\_Bk\Work\Els\_MVC-CodeGenerator\MVC-CodeGenerator\_SMOSampleInConsol.v1.1\Generator\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+E:\_Bk\Work\Els\_MVC-CodeGenerator\MVC-CodeGenerator\_SMOSampleInConsol.v1.1\Generator\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+E:\_Bk\Work\Els\_MVC-CodeGenerator\MVC-CodeGenerator\_SMOSampleInConsol.v1.1\Generator\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\_Bk\Work\Els\_MVC-CodeGenerator\MVC-CodeGenerator\_SMOSampleInConsol.v1.1\Generator\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+E:\_Bk\Work\Els\_MVC-CodeGenerator\MVC-CodeGenerator\_SMOSampleInConsol.v1.1\Generator\obj\Debug\SMOSampleInConsol.csprojAssemblyReference.cache
+E:\_Bk\Work\Els\_MVC-CodeGenerator\MVC-CodeGenerator\_SMOSampleInConsol.v1.1\Generator\obj\Debug\SMOSampleInConsol.csproj.CoreCompileInputs.cache
+E:\_Bk\Work\Els\_MVC-CodeGenerator\MVC-CodeGenerator\_SMOSampleInConsol.v1.1\Generator\obj\Debug\SMOSampleInConsol.csproj.CopyComplete
+E:\_Bk\Work\Els\_MVC-CodeGenerator\MVC-CodeGenerator\_SMOSampleInConsol.v1.1\Generator\obj\Debug\SMOSampleInConsol.exe
+E:\_Bk\Work\Els\_MVC-CodeGenerator\MVC-CodeGenerator\_SMOSampleInConsol.v1.1\Generator\obj\Debug\SMOSampleInConsol.pdb
+E:\Repos\Generator_Custom\Generator\bin\Debug\SMOSampleInConsol.exe.config
+E:\Repos\Generator_Custom\Generator\bin\Debug\SMOSampleInConsol.exe
+E:\Repos\Generator_Custom\Generator\bin\Debug\SMOSampleInConsol.pdb
+E:\Repos\Generator_Custom\Generator\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\Repos\Generator_Custom\Generator\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\Repos\Generator_Custom\Generator\bin\Debug\Microsoft.SqlServer.Smo.dll
+E:\Repos\Generator_Custom\Generator\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+E:\Repos\Generator_Custom\Generator\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+E:\Repos\Generator_Custom\Generator\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+E:\Repos\Generator_Custom\Generator\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+E:\Repos\Generator_Custom\Generator\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+E:\Repos\Generator_Custom\Generator\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\Repos\Generator_Custom\Generator\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+E:\Repos\Generator_Custom\Generator\obj\Debug\SMOSampleInConsol.csprojAssemblyReference.cache
+E:\Repos\Generator_Custom\Generator\obj\Debug\SMOSampleInConsol.csproj.CoreCompileInputs.cache
+E:\Repos\Generator_Custom\Generator\obj\Debug\SMOSampleInConsol.csproj.CopyComplete
+E:\Repos\Generator_Custom\Generator\obj\Debug\SMOSampleInConsol.exe
+E:\Repos\Generator_Custom\Generator\obj\Debug\SMOSampleInConsol.pdb
+E:\Repos\Generator Tools\Generator_Custom\Generator\bin\Debug\SMOSampleInConsol.exe.config
+E:\Repos\Generator Tools\Generator_Custom\Generator\bin\Debug\SMOSampleInConsol.exe
+E:\Repos\Generator Tools\Generator_Custom\Generator\bin\Debug\SMOSampleInConsol.pdb
+E:\Repos\Generator Tools\Generator_Custom\Generator\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\Repos\Generator Tools\Generator_Custom\Generator\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\Repos\Generator Tools\Generator_Custom\Generator\bin\Debug\Microsoft.SqlServer.Smo.dll
+E:\Repos\Generator Tools\Generator_Custom\Generator\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+E:\Repos\Generator Tools\Generator_Custom\Generator\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+E:\Repos\Generator Tools\Generator_Custom\Generator\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+E:\Repos\Generator Tools\Generator_Custom\Generator\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+E:\Repos\Generator Tools\Generator_Custom\Generator\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+E:\Repos\Generator Tools\Generator_Custom\Generator\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\Repos\Generator Tools\Generator_Custom\Generator\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+E:\Repos\Generator Tools\Generator_Custom\Generator\obj\Debug\SMOSampleInConsol.csprojAssemblyReference.cache
+E:\Repos\Generator Tools\Generator_Custom\Generator\obj\Debug\SMOSampleInConsol.csproj.CoreCompileInputs.cache
+E:\Repos\Generator Tools\Generator_Custom\Generator\obj\Debug\SMOSampleInConsol.csproj.CopyComplete
+E:\Repos\Generator Tools\Generator_Custom\Generator\obj\Debug\SMOSampleInConsol.exe
+E:\Repos\Generator Tools\Generator_Custom\Generator\obj\Debug\SMOSampleInConsol.pdb

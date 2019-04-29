@@ -1,0 +1,15 @@
+﻿@model [NameSpace].Models.[ModelClass]
+
+<script src="~/Scripts/jquery-1.7.1.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+[AdditionsScripts]
+<form id="[DialogBoxFormID]" class="gForm">
+    @Html.ValidationSummary(true)
+     <div id="messageBox1">
+            <ul></ul> 
+        </div>
+    <fieldset>
+        <legend></legend>[HtmlTags]
+    </fieldset>
+</form>
